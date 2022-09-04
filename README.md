@@ -2,4 +2,4 @@
 
 <h2> Question 01 </h2>
 Flowchart:
-[!image = '']
+<img src = 'https://github.com/SusanketSarkar/Dhvani_Submission/blob/main/Q1_flowchart.jpg'>
